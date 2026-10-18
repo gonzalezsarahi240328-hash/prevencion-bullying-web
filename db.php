@@ -2,7 +2,7 @@
 $host = "localhost";
 $dbname = "prevencion_bullying";
 $user = "root";
-$password = "";
+$password = "Luna#27A";
 
 try {
     $pdo = new PDO(
