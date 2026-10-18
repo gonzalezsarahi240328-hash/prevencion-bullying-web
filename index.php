@@ -15,7 +15,7 @@
   <main>
     <section>
       <h2>¿Qué es el bullying?</h2>
-      <p>Es una conducta agresiva que se repite y en la que existe un desequilibrio de poder y a veces no tomamos consiencia.
+      <p>Es una conducta agresiva que se repite y en la que existe un desequilibrio de poder y a veces no pasaber controlarlo.
       Puede ser física, verbal, social o digital.</p>
     </section>
 
